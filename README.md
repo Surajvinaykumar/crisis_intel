@@ -3,10 +3,10 @@
 A lightweight real-time crisis monitoring application that aggregates crisis signals from NASA EONET, UN ReliefWeb, and Twitter, applies machine learning risk prediction, and visualizes events on an interactive map.
 
 
-![Screenshot](Screenshot 2025-11-18 000951.png)
 
-
+<img width="3812" height="1932" alt="dashboard" src="https://github.com/user-attachments/assets/b93eb925-0bec-4b09-9bd6-7f502d2c33da" />
 ## Features
+
 
 - **Multi-Source Data Fetching**: Pulls crisis events from:
   - NASA Natural Events (satellite data)

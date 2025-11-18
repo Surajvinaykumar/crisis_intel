@@ -1,0 +1,127 @@
+country_iso2,admin1_name,lat,lon
+US,California,36.7783,-119.4179
+US,Texas,31.9686,-99.9018
+US,Florida,27.6648,-81.5158
+US,New York,43.2994,-74.2179
+US,Pennsylvania,41.2033,-77.1945
+US,Illinois,40.6331,-89.3985
+US,Ohio,40.4173,-82.9071
+US,Georgia,32.1574,-82.9071
+US,North Carolina,35.7596,-79.0193
+US,Michigan,44.3148,-85.6024
+US,Washington,47.7511,-120.7401
+US,Arizona,34.0489,-111.0937
+US,Massachusetts,42.4072,-71.3824
+US,Tennessee,35.5175,-86.5804
+US,Indiana,40.2672,-86.1349
+US,Missouri,37.9643,-91.8318
+US,Maryland,39.0458,-76.6413
+US,Wisconsin,43.7844,-88.7879
+US,Colorado,39.5501,-105.7821
+US,Minnesota,46.7296,-94.6859
+CN,Guangdong,23.3790,113.7633
+CN,Shandong,36.3427,117.0892
+CN,Henan,34.2904,113.3823
+CN,Sichuan,30.2638,102.8054
+CN,Jiangsu,32.9711,119.455
+CN,Hebei,38.4517,115.4889
+CN,Hunan,27.6104,111.7088
+CN,Anhui,31.7342,117.2272
+CN,Hubei,30.7378,112.2384
+CN,Zhejiang,29.1832,120.0934
+CN,Guangxi,23.7247,108.2813
+CN,Yunnan,25.0406,101.4879
+CN,Jiangxi,27.6244,115.7666
+CN,Liaoning,41.9437,122.5290
+CN,Fujian,26.0769,117.9249
+IN,Maharashtra,19.6633,75.3002
+IN,Uttar Pradesh,26.8467,80.9462
+IN,Bihar,25.0961,85.3131
+IN,West Bengal,22.9868,87.8550
+IN,Madhya Pradesh,22.9734,78.6569
+IN,Tamil Nadu,11.1271,78.6569
+IN,Rajasthan,27.0238,74.2179
+IN,Karnataka,15.3173,75.7139
+IN,Gujarat,22.2587,71.1924
+IN,Andhra Pradesh,15.9129,79.7400
+IN,Odisha,20.9517,85.0985
+IN,Telangana,18.1124,79.0193
+IN,Kerala,10.8505,76.2711
+IN,Assam,26.2006,92.9376
+IN,Punjab,31.1471,75.3412
+BR,Sao Paulo,-23.5505,-46.6333
+BR,Minas Gerais,-18.5122,-44.5550
+BR,Rio de Janeiro,-22.9068,-43.1729
+BR,Bahia,-12.5797,-41.7007
+BR,Parana,-25.2521,-52.0215
+BR,Rio Grande do Sul,-30.0346,-51.2177
+BR,Pernambuco,-8.8137,-36.9541
+BR,Ceara,-5.4984,-39.3206
+BR,Para,-3.1190,-52.9303
+BR,Santa Catarina,-27.2423,-50.2189
+BR,Goias,-15.8270,-49.8362
+BR,Maranhao,-5.0582,-45.2744
+AU,New South Wales,-33.8688,151.2093
+AU,Victoria,-37.4713,144.7852
+AU,Queensland,-20.9176,142.7028
+AU,Western Australia,-25.0424,121.6278
+AU,South Australia,-30.0002,136.2092
+CA,Ontario,51.2538,-85.3232
+CA,Quebec,52.9399,-73.5491
+CA,British Columbia,53.7267,-127.6476
+CA,Alberta,53.9333,-116.5765
+CA,Manitoba,53.7609,-98.8139
+CA,Saskatchewan,52.9399,-106.4509
+MX,Mexico City,19.4326,-99.1332
+MX,Jalisco,20.6595,-103.3494
+MX,Veracruz,19.1738,-96.1342
+MX,Puebla,19.0414,-98.2063
+MX,Guanajuato,21.0190,-101.2574
+MX,Chiapas,16.7569,-93.1292
+MX,Nuevo Leon,25.5922,-99.9962
+DE,Bavaria,48.7904,11.4979
+DE,North Rhine-Westphalia,51.4332,7.6616
+DE,Baden-Wurttemberg,48.6616,9.3501
+DE,Lower Saxony,52.6367,9.8451
+DE,Hesse,50.6521,9.1624
+FR,Ile-de-France,48.8499,2.6370
+FR,Auvergne-Rhone-Alpes,45.4472,4.3854
+FR,Nouvelle-Aquitaine,45.7089,-0.6283
+FR,Occitanie,43.8927,3.2827
+FR,Hauts-de-France,50.4801,2.7937
+GB,England,52.3555,-1.1743
+GB,Scotland,56.4907,-4.2026
+GB,Wales,52.1307,-3.7837
+GB,Northern Ireland,54.7877,-6.4923
+IT,Lombardy,45.4773,9.1815
+IT,Lazio,41.8919,12.5113
+IT,Campania,40.8518,14.2681
+IT,Sicily,37.5999,14.0154
+IT,Veneto,45.4408,12.3155
+ES,Andalusia,37.5443,-4.7278
+ES,Catalonia,41.5912,1.5209
+ES,Madrid,40.4168,-3.7038
+ES,Valencia,39.4840,-0.7533
+ES,Galicia,42.5751,-8.1339
+JP,Tokyo,35.6762,139.6503
+JP,Osaka,34.6937,135.5023
+JP,Kanagawa,35.4437,139.6380
+JP,Aichi,35.1802,136.9066
+JP,Saitama,35.8572,139.6489
+RU,Moscow,55.7558,37.6173
+RU,Saint Petersburg,59.9343,30.3351
+RU,Krasnodar,45.0428,38.9769
+RU,Sverdlovsk,56.8389,60.6057
+RU,Rostov,47.2357,39.7015
+ZA,Gauteng,-26.2708,28.1123
+ZA,KwaZulu-Natal,-28.5305,30.8958
+ZA,Western Cape,-33.2277,21.8569
+ZA,Eastern Cape,-32.2968,26.4194
+NG,Lagos,6.5244,3.3792
+NG,Kano,12.0022,8.5919
+NG,Kaduna,10.5105,7.4165
+NG,Rivers,4.8156,6.9778
+PK,Punjab,31.1471,75.3412
+PK,Sindh,25.8943,68.5247
+PK,Khyber Pakhtunkhwa,34.9526,72.3311
+PK,Balochistan,28.4912,65.0960

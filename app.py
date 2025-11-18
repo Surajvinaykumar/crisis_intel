@@ -202,6 +202,10 @@ def main():
                 st.session_state.ml_scores = {e["id"]: {"ml_risk": e.get("ml_risk"), "priority_score": e.get("priority_score", 0.0)} for e in scored_events}
                 st.success(f"Scored {len(scored_events)} events")
 
+    st.sidebar.header("Code Base")
+    st.sidebar.markdown("[GitHub Repository](https://github.com/Surajvinaykumar/crisis_intel/tree/main)")
+    st.sidebar.caption("Made by Suraj Vinaykumar")
+
     st.header("Crisis Events")
 
     events = db.read_events()
